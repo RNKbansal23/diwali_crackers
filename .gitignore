@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.local
+.npm-cache/
+.browser-check/
+.browser-check-*/
+preview-*.png

@@ -1,0 +1,11 @@
+MediaPipe Tasks Vision 0.10.17
+Copyright Google LLC. Distributed under the Apache License, Version 2.0.
+https://github.com/google-ai-edge/mediapipe
+https://www.npmjs.com/package/@mediapipe/tasks-vision/v/0.10.17
+
+vision-runtime.js is the unmodified vision_bundle.cjs distribution file, renamed
+for correct JavaScript content type in static hosting. The wasm directory contains
+the matching SIMD and non-SIMD runtime files from the same package version.
+Source-map comments refer to upstream debug files not bundled with this app.
+
+The hand landmark model is fetched separately from Google's MediaPipe model storage.
